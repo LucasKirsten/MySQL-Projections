@@ -23,16 +23,16 @@ The interface is able to connect with a MySQL login account and use the informat
 Some images of the interface functionality.
 
 ### Main screen
-![Screenshot](tela_principal.PNG)
+![Screenshot](imagens/tela_principal.PNG)
 
 ### Density plot
-![Screenshot](grafico_densidade.PNG)
+![Screenshot](imagens/grafico_densidade.PNG)
 
 ### Proximity plot
-![Screenshot](grafico_proximidade.PNG)
+![Screenshot](imagens/grafico_proximidade.PNG)
 
 ### Logarithm regression
-![Screenshot](regressao.PNG)
+![Screenshot](imagens/regressao.PNG)
 
 ### KNN prediction
-![Screenshot](knn.PNG)
+![Screenshot](imagens/knn.PNG)
