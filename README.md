@@ -20,12 +20,19 @@ The interface is able to connect with a MySQL login account and use the informat
 
 ## General view
 
-<img src="/tela_principal.PNG" alt="My cool logo"/>
+Some images of the interface functionality.
 
+### Main screen
+![Screenshot](tela_principal.PNG)
+
+### Density plot
 ![Screenshot](grafico_densidade.PNG)
 
+### Proximity plot
 ![Screenshot](grafico_proximidade.PNG)
 
+### Logarithm regression
 ![Screenshot](regressao.PNG)
 
+### KNN prediction
 ![Screenshot](knn.PNG)
