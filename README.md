@@ -39,8 +39,10 @@ Algumas imagens da funcionalidade da interface (veja mais no manual do usuário)
 
 ### Logarithm regression (Regressão logarítma)
 Regressão logarítma utilizando o banco de dados **iris**.
+
 ![Screenshot](imagens/regressao.PNG)
 
 ### KNN prediction (Predição KNN)
 Previsão KNN da espécie de planta utilizando o banco de dados **iris**.
+
 ![Screenshot](imagens/knn.PNG)
