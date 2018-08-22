@@ -20,12 +20,12 @@ The interface is able to connect with a MySQL login account and use the informat
 
 ## General view
 
-![Screenshot](tela_principal.png)
+<img src="/tela_principal.PNG" alt="My cool logo"/>
 
-![Screenshot](grafico_densidade.png)
+![Screenshot](grafico_densidade.PNG)
 
-![Screenshot](grafico_proximidade.png)
+![Screenshot](grafico_proximidade.PNG)
 
-![Screenshot](regressao.png)
+![Screenshot](regressao.PNG)
 
-![Screenshot](knn.png)
+![Screenshot](knn.PNG)
