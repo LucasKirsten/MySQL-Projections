@@ -3,9 +3,7 @@ Interface developed in cientific iniciation on UFRGS (Brazil) to handle data fro
 
 The interface is able to connect with a local MySQL login account and acess the information of the databases of it. Is possible to filter and plot the data in different settings chose intuitively by the user. Besides that, the program has a naive machine learning option with regressions and KNN predictions.
 
-Interface desenvolvida em bolsa de iniciação científica na UFRGS para lidar com dados de um banco MySQL. Manual do usuário disponível totalmente em português.
-
-A interface é capaz de se conectar a uma conta MySQL local e acessar as informações de seus bancos de dados. É possível fazer filtragem e gráficos dos dados com diferentes opções escolhidas de forma intuitiva pelo usuário. Além disso, o programa implementa uma forma simples de aprendizado de máquina utilizando regressões e predições com o algorítmo KNN.
+>Interface desenvolvida em bolsa de iniciação científica na UFRGS para lidar com dados de um banco MySQL. Manual do usuário disponível totalmente em português. A interface é capaz de se conectar a uma conta MySQL local e acessar as informações de seus bancos de dados. É possível fazer filtragem e gráficos dos dados com diferentes opções escolhidas de forma intuitiva pelo usuário. Além disso, o programa implementa uma forma simples de aprendizado de máquina utilizando regressões e predições com o algorítmo KNN.
 
 ## Prerequisites (Pré-requisitos)
 
@@ -26,7 +24,7 @@ A interface é capaz de se conectar a uma conta MySQL local e acessar as informa
 
 Some images of the interface functionality (see more in the user guide).
 
-Algumas imagens da funcionalidade da interface (veja mais no manual do usuário).
+>Algumas imagens da funcionalidade da interface (veja mais no manual do usuário).
 
 ### Main screen (Tela principal)
 ![Screenshot](imagens/tela_principal.PNG)
@@ -38,11 +36,15 @@ Algumas imagens da funcionalidade da interface (veja mais no manual do usuário)
 ![Screenshot](imagens/grafico_proximidade.PNG)
 
 ### Logarithm regression (Regressão logarítma)
-Regressão logarítma utilizando o banco de dados **iris**.
+Logarithm regression using the data base **iris**.
+
+>Regressão logarítma utilizando o banco de dados **iris**.
 
 ![Screenshot](imagens/regressao.PNG)
 
 ### KNN prediction (Predição KNN)
-Previsão KNN da espécie de planta utilizando o banco de dados **iris**.
+KNN prediction of the plant's species using the data base **iris**.
+
+>Previsão KNN da espécie de planta utilizando o banco de dados **iris**.
 
 ![Screenshot](imagens/knn.PNG)
